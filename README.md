@@ -55,6 +55,6 @@ To derive actionable insights about:
 
 ![ER Diagram](/ER_Diagram.png)
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/anjankarthikchandra/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/lipsa-priyadarshini-105606333/)
 
 
